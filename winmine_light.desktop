@@ -1,0 +1,9 @@
+[KGameTheme]
+Name=Winmine Light
+Description=Windows XP Minesweeper theme for KMines, light version
+VersionFormat=1
+Author=RunasSudo
+AuthorEmail=runassudo@yingtongli.me
+Type=SVG
+FileName=kmines_winmine_light.svgz
+Preview=winmine_light_preview.png
